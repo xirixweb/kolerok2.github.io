@@ -1,0 +1,43 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1565681500314">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="3968513732" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
+    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="фрейм1.png" crc="288049301" ref="index"/>
+    <file name="kilerok logo.png" crc="4001274735" ref="index"/>
+    <file name="paint-brush-stroke-2-9.png" crc="312345733" ref="index"/>
+    <file name="paint-brush-stroke-2-9 2-u161-3.png" crc="239488036" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u169.png" crc="325993116" ref="index"/>
+    <file name="u169-r.png" crc="51507896" ref="index"/>
+    <file name="u171.png" crc="4156031002" ref="index"/>
+    <file name="u171-r.png" crc="86310786" ref="index"/>
+    <file name="u170.png" crc="3770770283" ref="index"/>
+    <file name="u170-r.png" crc="28757675" ref="index"/>
+    <file name="sample-u172-r.png" crc="135383405" ref="index"/>
+    <file name="u164.png" crc="471494011" ref="index"/>
+    <file name="u164-r.png" crc="4144476661" ref="index"/>
+    <file name="u166.png" crc="67437103" ref="index"/>
+    <file name="u166-r.png" crc="4131678984" ref="index"/>
+    <file name="007aff1c4fbe563b573e7c7fe01a275a-u172.png" crc="326432201" ref="index"/>
+    <file name="u255-4.png" crc="4025541178" ref="index"/>
+    <file name="stairway-u239.png" crc="4057250311" ref="index"/>
+    <file name="sample-u239-r.png" crc="206611915" ref="index"/>
+    <file name="3-u240.png" crc="4244454745" ref="index"/>
+    <file name="sample-u240-r.png" crc="325439914" ref="index"/>
+    <file name="red-watercolor-png-12-u232-fr.png" crc="367850530" ref="index"/>
+    <file name="u236-4.png" crc="82430971" ref="index"/>
+    <file name="red-watercolor-png-12-u234-3.png" crc="4278494448" ref="index"/>
+    <file name="u237-4.png" crc="4225972464" ref="index"/>
+    <file name="red-watercolor-png-12.png" crc="172411622" ref="index"/>
+    <file name="u238-4.png" crc="3839513829" ref="index"/>
+  </folder>
+  <file name="index.html" crc="287866860" mt="1565616709931" redirect="true"/>
+</manifest>

@@ -1,0 +1,365 @@
+.version.index /* version checker */
+{
+	color: #0000EC;
+	background-color: #8AB6C4;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1440px;
+	min-height: 4999.8px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page::before
+{
+	box-shadow: none;
+	top: 0px;
+	bottom: 36px;
+	width: 1440px;
+}
+
+#page_position_content
+{
+	padding-bottom: 2408px;
+	width: 0.01px;
+}
+
+#u140
+{
+	z-index: 4;
+	min-height: 238px;
+	padding-bottom: 92px;
+	background: transparent url("../images/kilerok%20logo.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u161-3
+{
+	z-index: 6;
+	vertical-align: top;
+	width: 334px;
+	height: 145px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 93px;
+	left: 122px;
+	background: url("../images/paint-brush-stroke-2-9%202-u161-3.png") no-repeat 0px 0px;
+}
+
+#u147
+{
+	z-index: 5;
+	width: 334px;
+	height: 145px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 93px;
+	left: 1184px;
+	background: transparent url("../images/paint-brush-stroke-2-9.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u140-bw
+{
+	z-index: 4;
+	min-height: 238px;
+}
+
+#u164
+{
+	z-index: 10;
+	height: 59px;
+	width: 340px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 135px;
+	left: 122px;
+	background: url("../images/u164.png") no-repeat 0px 0px;
+}
+
+#u164:hover
+{
+	background: url("../images/u164-r.png") no-repeat 0px 0px;
+}
+
+#u166
+{
+	z-index: 13;
+	height: 65px;
+	width: 340px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 135px;
+	left: 1184px;
+	background: url("../images/u166.png") no-repeat 0px 0px;
+}
+
+#u166:hover
+{
+	background: url("../images/u166-r.png") no-repeat 0px 0px;
+}
+
+#pu140,#pu75
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u75
+{
+	z-index: 3;
+	height: 1017px;
+	background: transparent url("../images/%d1%84%d1%80%d0%b5%d0%b9%d0%bc1.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u75-bw
+{
+	z-index: 3;
+	height: 1017px;
+}
+
+#u169
+{
+	z-index: 16;
+	height: 123px;
+	width: 488px;
+	vertical-align: top;
+	-webkit-transform: matrix(0.9816,0.1908,-0.1908,0.9816,16,-45);
+	-ms-transform: matrix(0.9816,0.1908,-0.1908,0.9816,16,-45);
+	transform: matrix(0.9816,0.1908,-0.1908,0.9816,16,-45);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 244px;
+	left: 116px;
+	background: url("../images/u169.png") no-repeat 0px 0px;
+}
+
+#u169:hover
+{
+	background: url("../images/u169-r.png") no-repeat 0px 0px;
+}
+
+#u171
+{
+	z-index: 19;
+	height: 126px;
+	width: 488px;
+	vertical-align: top;
+	-webkit-transform: matrix(0.9994,-0.0349,0.0349,0.9994,-2,9);
+	-ms-transform: matrix(0.9994,-0.0349,0.0349,0.9994,-2,9);
+	transform: matrix(0.9994,-0.0349,0.0349,0.9994,-2,9);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 442px;
+	left: 110px;
+	background: url("../images/u171.png") no-repeat 0px 0px;
+}
+
+#u171:hover
+{
+	background: url("../images/u171-r.png") no-repeat 0px 0px;
+}
+
+#u170
+{
+	z-index: 22;
+	height: 126px;
+	width: 488px;
+	vertical-align: top;
+	-webkit-transform: matrix(0.9877,-0.1564,0.1564,0.9877,-7,39);
+	-ms-transform: matrix(0.9877,-0.1564,0.1564,0.9877,-7,39);
+	transform: matrix(0.9877,-0.1564,0.1564,0.9877,-7,39);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 633px;
+	left: 107px;
+	background: url("../images/u170.png") no-repeat 0px 0px;
+}
+
+#u170:hover
+{
+	background: url("../images/u170-r.png") no-repeat 0px 0px;
+}
+
+#u172
+{
+	z-index: 25;
+	height: 601px;
+	width: 625px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 224px;
+	left: 663px;
+	background: url("../images/007aff1c4fbe563b573e7c7fe01a275a-u172.png") no-repeat 0px 0px;
+}
+
+#u172:hover
+{
+	background: url("../images/sample-u172-r.png") no-repeat 0px 0px;
+}
+
+#u255-4
+{
+	z-index: 49;
+	display: block;
+	vertical-align: top;
+	left: -100px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#ppu239
+{
+	width: 0.01px;
+	margin-left: 1px;
+	margin-top: 24px;
+}
+
+#u239
+{
+	z-index: 28;
+	height: 740px;
+	width: 709px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	background: url("../images/stairway-u239.png") no-repeat 0px 0px;
+}
+
+#u239:hover
+{
+	background: url("../images/sample-u239-r.png") no-repeat 0px 0px;
+}
+
+#u240
+{
+	z-index: 31;
+	height: 740px;
+	width: 710px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 729px;
+	background: url("../images/3-u240.png") no-repeat 0px 0px;
+}
+
+#u240:hover
+{
+	background: url("../images/sample-u240-r.png") no-repeat 0px 0px;
+}
+
+#pu232
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 58px;
+}
+
+#u232
+{
+	z-index: 33;
+	width: 692px;
+	padding-bottom: 44px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/red-watercolor-png-12-u232-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u236-4
+{
+	z-index: 37;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+}
+
+#u234-3
+{
+	z-index: 34;
+	vertical-align: top;
+	width: 692px;
+	height: 124px;
+	position: relative;
+	margin-right: -10000px;
+	left: 948px;
+	background: url("../images/red-watercolor-png-12-u234-3.png") no-repeat 0px 0px;
+}
+
+#u237-4
+{
+	z-index: 41;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 948px;
+}
+
+#u204
+{
+	z-index: 2;
+	min-height: 83px;
+	padding-bottom: 41px;
+	background: transparent url("../images/red-watercolor-png-12.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u140_align_to_page,#u204_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1440px;
+	position: relative;
+	left: -100px;
+}
+
+#u238-4
+{
+	z-index: 45;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 594px;
+}
+
+#u204-bw
+{
+	z-index: 2;
+	min-height: 83px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1440px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
